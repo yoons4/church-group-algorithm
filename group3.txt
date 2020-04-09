@@ -1,0 +1,17 @@
+Sangha,A
+Ultra,B
+RAbbit,C
+Peter,D
+Time,E
+Theo,E
+Ghot,G
+Time,T
+Right,R
+Eater,Q
+Haunted,H
+Bee,F
+Space,S
+Yay,Y
+Leo,L
+Queen,Q
+House,H
